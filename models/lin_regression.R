@@ -1,0 +1,1 @@
+#Linear regression model between body mass and culmen length 
